@@ -30,12 +30,3 @@
 >Enter your username and password of your VPS
 
 >Click "ok"
-
- ## Get in touch with me
->[My Website](https://sasandara.studio)
-
->[Discord](https://discord.gg/G3gxzRFGQ2)
-
->[Facebook](https://www.facebook.com/sasandaradev)
-
->[Twitter](https://twitter.com/SasandaraDilmin)
